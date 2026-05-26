@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasefpdate",
+        "uuid": 4960160,
+        "checksum": "88jpgn"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
